@@ -1,0 +1,735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pk",
+				"pk=pk"
+			],
+			[
+				"get",
+				"get_absolute_url"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"reverse",
+				"reverse_lazy〔module〕"
+			],
+			[
+				"auto_now",
+				"auto_now_add"
+			],
+			[
+				"AU",
+				"AUTH_USER_MODEL"
+			],
+			[
+				"post",
+				"post_save_user_receiver"
+			],
+			[
+				"User",
+				"UserProfile〔module〕"
+			],
+			[
+				"add",
+				"added"
+			],
+			[
+				"user",
+				"user_profile〔variable〕"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"next",
+				"nextTweetUrl"
+			],
+			[
+				"fet",
+				"fetchUrl〔variable〕"
+			],
+			[
+				"fe",
+				"fetchUrl"
+			],
+			[
+				"Sta",
+				"StandardResultsPagination〔module〕"
+			],
+			[
+				"sea",
+				"searchQuery〔variable〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"T",
+				"Tweet.objects.all"
+			],
+			[
+				"Delete",
+				"DeleteView"
+			],
+			[
+				"Update",
+				"UpdateView"
+			],
+			[
+				"h",
+				"higherId"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"w",
+				"maxWords"
+			],
+			[
+				"leng",
+				"length"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"tex",
+				"textArea"
+			],
+			[
+				"ge",
+				"getArticlesIds"
+			],
+			[
+				"my",
+				"myBookmarks"
+			],
+			[
+				"boo",
+				"bookmark-div"
+			],
+			[
+				"myB",
+				"myBookmarkedItem"
+			],
+			[
+				"book",
+				"bookmarked"
+			],
+			[
+				"article",
+				"articleId"
+			],
+			[
+				"arti",
+				"articleId"
+			],
+			[
+				"bookmark",
+				"bookmark-button-2"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bookmar",
+				"bookmark-button-2"
+			],
+			[
+				"p",
+				"publish"
+			],
+			[
+				"published",
+				"published_date"
+			],
+			[
+				"gulp",
+				"gulp-concat"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"li",
+				"lighten\tlighten()"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"overflow",
+				"overflow-wrap"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"obj",
+				"object-position"
+			],
+			[
+				"uplo",
+				"uploadedImages"
+			],
+			[
+				"song",
+				"songsList"
+			],
+			[
+				"cover",
+				"cover_url"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"we",
+				"web-header-background"
+			],
+			[
+				"web-",
+				"web-title"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"first",
+				"firstNameInput"
+			],
+			[
+				"fir",
+				"firstNameInput"
+			],
+			[
+				"heigh",
+				"height"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"animatio",
+				"animation-delay"
+			],
+			[
+				"anim",
+				"animation"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disable",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"emm",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"installed",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 331.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cannonball/Documents/Web_Master/straight_ahead/Blog/blogging"
+	],
+	"file_history":
+	[
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/api/views.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/views.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/views.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/__init__.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/migrations/0001_initial.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/models.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/migrations/0015_remove_tweet_content.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/migrations/0016_add_content_field.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/migrations/0017_merge_20170621_1846.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/migrations/0003_auto_20170416_1349.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/migrations/0014_tweet_parent.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/tweet_detail.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/urls.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/tweet_list.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/api/serializers.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/form.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/templates/accounts/user_detail.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweetme/urls.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/models.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/hashtags/models.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/hashtags/views.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/hashtags/templates/hashtags/tag_view.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/lib/python3.5/site-packages/django/views/generic/base.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/hashtags/admin.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweetme/settings/local.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweetme/settings/base.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweetme/settings/production.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/tests.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/urls.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/admin.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/api/serializers.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/api/pagination.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweetme/settings/__init__.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/create_view.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/validators.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/forms.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/api/urls.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/templates/base.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweetme/views.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/accounts/api/__init__.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/api/__init__.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/search_form.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/templates/home.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/update_view.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/templates/navbar.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/delete_confirm.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/detail_view.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/mixins.py",
+		"/Users/cannonball/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/cannonball/Library/Application Support/Sublime Text 3/Packages/User/Python Django.sublime-settings",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/admin.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/validators.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/templates/tweets/list_view.html",
+		"/Users/cannonball/Documents/Web_Master/_PROYECTO_FINAL/Repositories/test/index.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/angular-basics/first-angular-cli/ed-app/src/app/app.component.ts",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/apps.py",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/.gitignore",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/static-storage/static/CSS/custom.css",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/template/tweets/detail_view.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/template/tweets/list_view.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/template/tweets/update_view.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/template/tweets/delete_confirm.html",
+		"/Users/cannonball/Documents/Web_Master/911_Udemy/Django-Tweetme/tweetme/src/tweets/template/tweets/create_view.html",
+		"/Users/cannonball/.ssh/known_hosts",
+		"/Users/cannonball/Documents/Web_Master/10_MEAN/Repositories/nodeApp/README.md",
+		"/Users/cannonball/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/cannonball/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/cannonball/Documents/My Websites/ymdev/.gitignore",
+		"/Users/cannonball/Documents/My Websites/ymdev/src/scss/style.scss",
+		"/Users/cannonball/Documents/My Websites/ymdev/src/js/app.js",
+		"/Users/cannonball/Documents/My Websites/ymdev/gulpfile.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/package.json",
+		"/Users/cannonball/Documents/Web_Master/04_Django, Python/hello.py",
+		"/Users/cannonball/Downloads/Narcos.S02E02.WEBRip.SKGTV.en.srt",
+		"/Users/cannonball/Downloads/Bron.Broen.S01E07.en.srt",
+		"/Users/cannonball/Downloads/Narcos.S02E02.WEBRip.SKGTV.en-resync (3).srt",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/app.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/pagination.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/publish-comment.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/form.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/adding-bookmark.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/comments-count.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/bookmark-event.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/unbookmark-event.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/add-comment.js",
+		"/Users/cannonball/Documents/Web_Master/02_HTML-5-CSS-3-y-Javascript/Repositories/IntroFronEnd/js/text-area-validation.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/detail.html",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/db/comments/1",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_dropit.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/prueba-dani.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/dani.html",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/init.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_ui-states.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_published-list.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/publish-article.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_form.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/utils.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/publish.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_comments.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/index.html",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_detail-view.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/style.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/gulpfile.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/js/published-list.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_html-tags.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_variables.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_web-header.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/ninja-steps/src/scss/_responsive-utilities.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/_ui-states.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/js/form.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/_web-header.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/js/utils.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/_songs-list.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/index.html",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/js/add-icon.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/dist/js/app.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/js/app.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/js/songs-list.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/js/init.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/gulpfile.js",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/style.css",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/_variables.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/_html-tags.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/style.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/_clearfix.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/src/scss/_reset.scss",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/dist/css/style.css",
+		"/Users/cannonball/Documents/Web_Master/03_Front-End-Ninja/Repositories/front-end-ninja/package.json"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addClass",
+			"html",
+			"loginre",
+			"favicon.ico",
+			"row",
+			"video"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blogging.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

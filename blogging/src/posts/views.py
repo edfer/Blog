@@ -1,10 +1,18 @@
 from django.shortcuts import render
-from django.views.generic import DetailView, ListView
+from django.views.generic import DetailView, ListView, CreateView
+
+from .forms import PostModelForm
 from .models import Post
 
 # Create your views here.
 
 # Create
+
+class PostCreateView(CreateView):
+    #queryset = Post.objects.all()
+    form_class = PostModelForm
+    template_name = "posts/create_view.html"
+
 
 # Retrieve
 
